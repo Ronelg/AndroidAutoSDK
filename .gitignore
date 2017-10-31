@@ -1,0 +1,29 @@
+/.idea/
+/local.properties
+#Android generated
+bin
+gen
+
+
+#Eclipse
+.project
+.classpath
+.settings
+
+#IntelliJ IDEA
+*.iml
+
+#Maven
+target
+release.properties
+pom.xml.*
+
+#Command line
+build.xml
+proguard-project.txt
+
+#Gradle
+library/build
+sample/build
+/build
+/.gradle/
